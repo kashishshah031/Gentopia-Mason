@@ -9,3 +9,6 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .assign2_part1 import *
+from .assign2_part2 import *
+from .assign2_part2 import *
